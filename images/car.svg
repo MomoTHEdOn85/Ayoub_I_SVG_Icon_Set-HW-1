@@ -1,8 +1,8 @@
 <svg id="car" xmlns="http://www.w3.org/2000/svg" width="56.77" height="29" viewBox="0 0 56.77 29">
   <defs>
     <style>
-      #badge:hover {cursor: pointer;}
-      #badge:hover .cls-1 { fill: yellow}
+      #car:hover {cursor: pointer;}
+      #car:hover .cls-1 { fill: yellow}
 
       .cls-1 {
         fill: #fff;
