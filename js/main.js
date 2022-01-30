@@ -8,9 +8,7 @@
     theIcons = document.querySelectorAll(".icon");
 
     // debugger; // this is like a breakpoint / pause point in the code
-
-
- // script your behaviour with functions
+    // script your behaviour with functions
  function logElement () {
     //  the "this" keyword refers to the thing that invokes the function
     // so the "thing" that you click on, mouse over, interact with on the page
