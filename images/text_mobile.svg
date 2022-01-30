@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.53" height="29.53" viewBox="0 0 17.53 29.53">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 0.53px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.59px;
+      }
+
+      .cls-3 {
+        fill: #ccc;
+      }
+
+      .cls-4 {
+        font-size: 1.2px;
+      }
+
+      .cls-13, .cls-4 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        stroke-width: 0.2px;
+      }
+
+      .cls-12 {
+        fill: #e6e6e6;
+        stroke-width: 0.13px;
+      }
+
+      .cls-13 {
+        font-size: 1.43px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_11" data-name="Layer 11">
+      <rect class="cls-1" x="0.27" y="0.27" width="17" height="29" rx="3.01"/>
+      <rect class="cls-1" x="1.27" y="1.27" width="15" height="25" rx="3.01"/>
+      <rect class="cls-2" x="6.27" y="27.27" width="5" height="1"/>
+      <rect class="cls-3" x="1.77" y="6.77" width="12" height="2" rx="0.65"/>
+      <text class="cls-4" transform="translate(2.68 8.17) scale(0.97 1)"><tspan class="cls-5">G</tspan><tspan x="0.78" y="0">o </tspan><tspan class="cls-6" x="1.7" y="0">t</tspan><tspan x="2.09" y="0">o </tspan><tspan class="cls-7" x="3" y="0">Sv</tspan><tspan x="4.15" y="0">g I</tspan><tspan class="cls-6" x="5.36" y="0">c</tspan><tspan x="5.89" y="0">on Si</tspan><tspan class="cls-6" x="8.35" y="0">t</tspan><tspan x="8.74" y="0">e</tspan></text>
+      <rect class="cls-3" x="1.77" y="9.57" width="12" height="3.4" rx="0.85"/>
+      <text class="cls-4" transform="translate(2.68 11.17) scale(0.97 1)"><tspan class="cls-8">And checkout new </tspan><tspan x="0" y="1.44">amazing i</tspan><tspan class="cls-6" x="4.83" y="1.44">c</tspan><tspan x="5.36" y="1.44">ons</tspan></text>
+      <rect class="cls-3" x="1.77" y="13.77" width="12" height="2" rx="0.65"/>
+      <text class="cls-4" transform="translate(2.68 15.17) scale(0.97 1)"><tspan class="cls-7">T</tspan><tspan x="0.59" y="0">hey a</tspan><tspan class="cls-9" x="3.26" y="0">r</tspan><tspan class="cls-10" x="3.64" y="0">e all FREE !</tspan></text>
+      <rect class="cls-3" x="12.77" y="16.77" width="3" height="2" rx="0.33"/>
+      <text class="cls-4" transform="translate(13.68 18.17) scale(0.97 1)">Ok</text>
+      <line class="cls-11" x1="1.77" y1="5.77" x2="15.77" y2="5.77"/>
+      <circle class="cls-12" cx="8.77" cy="3.31" r="1"/>
+      <text class="cls-13" transform="translate(6.73 5.35)">momo</text>
+    </g>
+  </g>
+</svg>

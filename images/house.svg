@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.49" height="51.08" viewBox="0 0 47.49 51.08">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_6" data-name="Layer 6">
+      <line class="cls-1" x1="40.06" y1="50.58" x2="40.06" y2="20.58"/>
+      <line class="cls-1" x1="40.06" y1="50.58" x2="29.06" y2="50.58"/>
+      <line class="cls-1" x1="6.06" y1="50.58" x2="18.06" y2="50.58"/>
+      <g>
+        <polyline class="cls-2" points="1.06 23.57 22.56 2.08 43.61 21.33 45.98 23.51 46.06 23.57"/>
+        <line class="cls-1" x1="29.06" y1="38.58" x2="29.06" y2="50.58"/>
+        <line class="cls-1" x1="18.06" y1="38.58" x2="29.06" y2="38.58"/>
+        <line class="cls-1" x1="18.06" y1="50.58" x2="18.06" y2="38.58"/>
+        <line class="cls-1" x1="6.06" y1="20.58" x2="6.06" y2="50.58"/>
+      </g>
+    </g>
+  </g>
+</svg>
