@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="30.44" height="30.63" viewBox="0 0 30.44 30.63">
   <defs>
     <style>
+      #badge:hover {cursor: pointer;}
+      #badge:hover .cls-1 { fill: blue}
+
       .cls-1 {
         fill: lime;
+        transition: all 1.5s ease;
       }
 
       .cls-1, .cls-2, .cls-3, .cls-4 {
@@ -30,6 +34,16 @@
         fill: #ff0;
       }
     </style>
+
+    <script>
+      let theCandies = document.querySelctor("#candies");
+
+      function lgMyId() {
+      console.log("clicked on the object tag:", this.id);
+      }
+
+      theCandies.addEventListener("click", logMyId)
+    </script>
   </defs>
   <g id="Layer_2" data-name="Layer 2">
     <g id="candies">
